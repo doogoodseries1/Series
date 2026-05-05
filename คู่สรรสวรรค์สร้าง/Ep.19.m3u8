@@ -11,7 +11,7 @@ https://1a-1791.com/video/fww1/78/s8/2/g/F/x/k/gFxkA.haa.tar?r_file=chunklist.m3
 https://1a-1791.com/video/fww1/78/s8/2/g/F/x/k/gFxkA.gaa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=717170688-717197626
 #EXT-X-STREAM-INF:BANDWIDTH=1051000,RESOLUTION=854x358,CODECS="avc1.4d401f,mp4a.40.2",FRAME-RATE=25.000,AUDIO="audio"
 https://1a-1791.com/video/fww1/78/s8/2/g/F/x/k/gFxkA.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=353033216-353060064
-#EXT-X-STREAM-INF:BANDWIDTH=675000,RESOLUTION=640x268CODECS="avc1.4d401e,mp4a.40.2",FRAME-RATE=25.000,AUDIO="audio"
+#EXT-X-STREAM-INF:BANDWIDTH=675000,RESOLUTION=640x268,CODECS="avc1.4d401e,mp4a.40.2",FRAME-RATE=25.000,AUDIO="audio"
 https://1a-1791.com/video/fww1/78/s8/2/g/F/x/k/gFxkA.baa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=226863616-226890384
 #EXT-X-STREAM-INF:BANDWIDTH=222000,RESOLUTION=640x268,CODECS="avc1.4d401e,mp4a.40.2",FRAME-RATE=25.000,AUDIO="audio"
 https://1a-1791.com/video/fww1/78/s8/2/g/F/x/k/gFxkA.oaa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=74800640-74827069
