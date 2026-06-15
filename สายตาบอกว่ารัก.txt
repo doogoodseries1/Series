@@ -28,11 +28,11 @@
     <!--▦--> <source src="XXXXXXXXXXXXXXXXXXXXXXX" type="application/x-mpegURL"> <!--▥-->
 	
 	
-	3  76up7w  https://1a-1791.com/video/fww1/f0/s8/2/0/4/H/i/04HiA.aaa.mp4
-	5  76up9q  https://1a-1791.com/video/fwe2/9e/s8/2/2/5/H/i/25HiA.aaa.mp4
-	9  76upug  https://1a-1791.com/video/fww1/95/s8/2/G/f/I/i/GfIiA.aaa.mp4
-	11  76upuu  https://1a-1791.com/video/fwe2/aa/s8/2/U/f/I/i/UfIiA.aaa.mp4
-	21  76uqis  https://1a-1791.com/video/fwe2/1e/s8/2/m/t/I/i/mtIiA.aaa.mp4
+	3  76up7w  https://hugh.cdn.rumble.cloud/video/fww1/f0/s8/2/0/4/H/i/04HiA.aaa.mp4
+	5  76up9q  https://hugh.cdn.rumble.cloud/video/fwe2/9e/s8/2/2/5/H/i/25HiA.aaa.mp4
+	9  76upug  https://hugh.cdn.rumble.cloud/video/fww1/95/s8/2/G/f/I/i/GfIiA.aaa.mp4
+	11  76upuu  https://hugh.cdn.rumble.cloud/video/fwe2/aa/s8/2/U/f/I/i/UfIiA.aaa.mp4
+	21  76uqis  https://hugh.cdn.rumble.cloud/video/fwe2/1e/s8/2/m/t/I/i/mtIiA.aaa.mp4
 	
 	
 	
